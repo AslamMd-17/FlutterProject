@@ -1,16 +1,16 @@
-# ecomflutter
+Ecommflutter
 
-A new Flutter project.
+Its an ecommerce application built as a beginner project while learning the technologies like flutter and firebase.
 
-## Getting Started
+Tech Stack:
 
-This project is a starting point for a Flutter application.
+1.Flutter 
+2.Firebase - auth
+3.Firebase - Firestore
+4.Firebase - messaging.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features :
+1.Payment gateway for seamless transactions.
+2.Messaging for updates and notification system through email.
+3.Smooth and Seamless user interface .
